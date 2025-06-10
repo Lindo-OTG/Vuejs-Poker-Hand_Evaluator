@@ -1,8 +1,8 @@
 <template>
   <div id="app">
-    <header>
+    <!-- <header>
       <h1>Poker Hand Evaluator</h1>
-    </header>
+    </header> -->
     <main>
       <PokerHand />
     </main>
@@ -35,7 +35,7 @@ header {
 }
 
 main {
-  max-width: 800px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 20px;
 }
