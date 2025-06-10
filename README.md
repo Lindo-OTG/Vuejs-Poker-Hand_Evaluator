@@ -1,6 +1,6 @@
 # Poker Hand Evaluator
 
-A simple tool to evaluate poker hands.
+A simple tool to evaluate and compare poker hands.
 
 ## Setup
 
@@ -23,8 +23,9 @@ A simple tool to evaluate poker hands.
 1. Open the frontend in your browser (usually http://localhost:5173)
 2. Select card ranks and suits for all 5 cards
 3. Click "Evaluate Hand" to see the result
+4. or Select 2 sets of cards, and Click 'Compare Hands' to compare and get  Winner.
 
-## Built With
+## Built Using
 * Node.js - JavaScript runtime
 * Express - Web application framework
 * Vue.js - open-source JavaScript framework
